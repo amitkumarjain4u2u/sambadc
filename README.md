@@ -10,6 +10,7 @@ Components Included:
 ====================
 
 1) libpython2.6, python2.6-dev, rdssamba4, rds, rdsserver, rdsconsole
+
 2) xubuntu-desktop, xrdp, rdesktop, gedit, gnome-network-admin
 
 Script to install Linux PDC
