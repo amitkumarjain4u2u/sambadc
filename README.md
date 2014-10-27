@@ -34,7 +34,8 @@ ii) Make it executable: ```chmod +x resara_v1.0.sh```
 
 iii) Execute the script: ```./resara_v1.0.sh```
 
-Thats is Done !!!!!
+Thats it, is Done now!!!!!
 ===================
+  reboot the server and configure the domain controller by using researa GUI
 
 
