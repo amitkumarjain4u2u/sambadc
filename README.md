@@ -36,6 +36,6 @@ iii) Execute the script: ```./resara_v1.0.sh```
 
 Thats it, is Done now!!!!!
 ===================
-  reboot the server and configure the domain controller by using researa GUI
+  Reboot the server and configure the domain controller by using researa GUI
 
 
