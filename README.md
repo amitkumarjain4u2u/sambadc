@@ -18,8 +18,6 @@ Script to install Linux PDC - Follow the steps below
 
 Should run as root on a fresh installation of "Ubuntu_12.04_amd_64" (tested).
 
-i) Download the script:  
-```shell
-wget https://github.com/girishkg/sambadc/blob/master/resara_v1.0.sh
+i) Download the script:  ```wget https://github.com/girishkg/sambadc/blob/master/resara_v1.0.sh
 
 
