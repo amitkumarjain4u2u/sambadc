@@ -13,7 +13,7 @@ II. System Requirement:
 =======================
 1) Tested on fresh Ubuntu_12.04_x86 Server  
 2) Choose system hardware/vm resource as per your standards  
-3) Turn off firewalls (```iptables and ip6tables``)  
+3) Turn off firewalls (```iptables and ip6tables```)  
 4) Setup the host name into FQDN  
 5) Setup network properly including default gateway  
 6) Server needs to have internet access to get packages and dependencies  
