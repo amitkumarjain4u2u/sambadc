@@ -20,4 +20,11 @@ Should run as root on a fresh installation of "Ubuntu_12.04_amd_64" (tested).
 
 i) Download the script:  ```wget https://github.com/girishkg/sambadc/blob/master/resara_v1.0.sh```
 
+ii) Make it executable: ```chmod +x resara_v1.0.sh```
+
+iii) Execute the script: ```./resara_v1.0.sh```
+
+Thats is Done !!!!!
+===================
+
 
