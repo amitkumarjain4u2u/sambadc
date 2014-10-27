@@ -20,7 +20,7 @@ II. System Requirement:
 3) Turn off firewalls (```iptables and ip6tables``)  
 4) Setup the host name into FQDN  
 5) Setup network properly including default gateway  
-6) Server needs to have internet access to get packages and dependancies
+6) Server needs to have internet access to get packages and dependencies
 7) Configure your network proxy or firewall accordingly to allow internet access onto this server
 
 III. Script to install Linux PDC - Follow the steps below
@@ -34,7 +34,7 @@ ii) Make it executable: ```chmod +x resara_v1.0.sh```
 
 iii) Execute the script: ```./resara_v1.0.sh```
 
-Thats it, is Done now!!!!!
+Thats it, it is Done now!!!!!
 ===================
   Reboot the server and configure the domain controller by using researa GUI
 
