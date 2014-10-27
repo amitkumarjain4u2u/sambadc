@@ -1,5 +1,5 @@
 Primary DC with SAMBA-4 and Resara
-=======
+=====================
 
 
 Below script will help you out to get "Resara" on to "Ubuntu_12.04_amd64"
@@ -13,7 +13,8 @@ I. Components Included:
 
 2) xubuntu-desktop, xrdp, rdesktop, gedit, gnome-network-admin
 
-II. System Requirement  
+II. System Requirement:
+=======================
 1) Tested on fresh Ubuntu_12.04_x86 Server  
 2) Choose system hardware/vm resource as per your standards  
 3) Turn off firewalls (```iptables and ip6tables``)  
